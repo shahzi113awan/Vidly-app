@@ -13,6 +13,7 @@ import Register from "./Components/register";
 import "./App.css";
 
 function App() {
+  console.log("deonified")
   return (
     <React.Fragment>
       <NavBar></NavBar>
